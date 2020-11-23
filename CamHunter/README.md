@@ -10,4 +10,4 @@ cd CamHunter
 ```shell
 python3 CamHunter.py
 ```
-- [x] You can use CamHunter in termux but be sure to change the useragents!!
+- [x] You can use CamHunter in: Windows, Linux, MacOS, Android, tostapaneOS and mio zio
